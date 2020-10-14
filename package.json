@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/Users/owencooney/Documents/GitHub/istockist-mobile/assets/my-cordova-plugin",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/Users/owencooney/Documents/GitHub/istockist-mobile/assets/my-cordova-plugin",
+        "spec": "/Users/owencooney/Documents/GitHub/istockist-mobile/assets/my-cordova-plugin",
+        "type": "directory"
+      },
+      "/Users/owencooney/Documents/GitHub/istockist-mobile"
+    ]
+  ],
+  "_from": "assets/my-cordova-plugin",
+  "_id": "cordova-plugin-template@1.0.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-template",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/Users/owencooney/Documents/GitHub/istockist-mobile/assets/my-cordova-plugin",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/Users/owencooney/Documents/GitHub/istockist-mobile/my-cordova-plugin",
+    "spec": "/Users/owencooney/Documents/GitHub/istockist-mobile/assets/my-cordova-plugin",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:assets/my-cordova-plugin",
+  "_shasum": "6b2095c6bbb023d211d373cd868ded3d5fde9bab",
+  "_shrinkwrap": null,
+  "_spec": "/Users/owencooney/Documents/GitHub/istockist-mobile/assets/my-cordova-plugin",
+  "_where": "/Users/owencooney/Documents/GitHub/istockist-mobile",
+  "cordova": {
+    "id": "cordova-plugin-template",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "A starting point for a Cordova Plugin",
+  "devDependencies": {},
+  "name": "cordova-plugin-template",
+  "optionalDependencies": {},
+  "readme": "Cordova Plugin Template\n======\n\nThis is a simple starting point for building a Cordova plugin on iOS and Android.\n",
+  "readmeFilename": "README.md",
+  "version": "1.0.0"
+}
